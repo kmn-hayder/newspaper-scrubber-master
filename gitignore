@@ -1,0 +1,6 @@
+./data*
+*data-*
+.idea
+data/
+output.csv
+test.py
